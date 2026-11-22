@@ -1,5 +1,7 @@
 # CM4371 – Sri Lankan Used Car Price Ensemble Learning Dashboard
 
+**Live Dashboard:** [https://sl-car-price-ensemble.streamlit.app/](https://sl-car-price-ensemble.streamlit.app/)
+
 An interactive Streamlit dashboard comparing **Bagging (Random Forest)**, **Boosting (Gradient Boosting & XGBoost)**, **Stacking (RF + XGB + GBR → Ridge)**, and a **Hybrid (RF + ANN Residual Learning)** model on 9,788 real Sri Lankan used car listings.
 
 ### Key Results (Test Set)
