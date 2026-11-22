@@ -1,0 +1,490 @@
+{
+  "brand_to_models": {
+    "AUDI": [
+      "A1",
+      "A4",
+      "A6",
+      "Other"
+    ],
+    "AUSTIN": [
+      "MINI COOPER",
+      "Other"
+    ],
+    "BAJAJ": [
+      "QUTE"
+    ],
+    "BMW": [
+      "320D",
+      "520D",
+      "MINI COOPER",
+      "Other"
+    ],
+    "BYD": [
+      "Other"
+    ],
+    "CHERY": [
+      "Other",
+      "QQ"
+    ],
+    "CHEVROLET": [
+      "CRUZE",
+      "Other"
+    ],
+    "CITROEN": [
+      "Other"
+    ],
+    "DAEWOO": [
+      "Other"
+    ],
+    "DAIHATSU": [
+      "CHARADE",
+      "MIRA",
+      "MOVE",
+      "Other",
+      "TANK"
+    ],
+    "DATSUN": [
+      "Other",
+      "REDI-GO"
+    ],
+    "FIAT": [
+      "Other",
+      "PUNTO"
+    ],
+    "FORD": [
+      "LASER",
+      "Other"
+    ],
+    "FOTON": [
+      "Other",
+      "SAGA"
+    ],
+    "HONDA": [
+      "CITY",
+      "CIVIC",
+      "CIVIC EK3",
+      "CIVIC ES8",
+      "CIVIC EX",
+      "CIVIC FD1",
+      "CIVIC FD3",
+      "FIT",
+      "FIT ARIA",
+      "FIT GD1",
+      "FIT GE6",
+      "FIT GP1",
+      "FIT GP1 NAVI PREMIUM",
+      "FIT GP4 RS",
+      "FIT GP5",
+      "FIT GP5 L GRADE",
+      "FIT GP5 S GRADE",
+      "FIT SHUTTLE",
+      "FIT SHUTTLE GP7",
+      "FREED",
+      "GRACE",
+      "GRACE EX",
+      "INSIGHT",
+      "INSIGHT ZE2",
+      "N BOX",
+      "N BOX CUSTOM",
+      "N WGN",
+      "Other"
+    ],
+    "HYUNDAI": [
+      "ACCENT",
+      "ELANTRA",
+      "EON",
+      "EON MAGNA PLUS",
+      "GRAND I10",
+      "MATRIX",
+      "Other",
+      "SONATA",
+      "TRAJET"
+    ],
+    "ISUZU": [
+      "GEMINI",
+      "Other"
+    ],
+    "JAC": [
+      "Other"
+    ],
+    "JAGUAR": [
+      "Other"
+    ],
+    "JONWAY": [
+      "Other"
+    ],
+    "KIA": [
+      "Other",
+      "PICANTO",
+      "RIO",
+      "SEPHIA",
+      "SPECTRA"
+    ],
+    "LAND-ROVER": [
+      "Other"
+    ],
+    "LEXUS": [
+      "Other"
+    ],
+    "MAHINDRA": [
+      "Other"
+    ],
+    "MAZDA": [
+      "3",
+      "323",
+      "AXELA",
+      "DEMIO",
+      "FAMILIA",
+      "FAMILIA BJ5P",
+      "MAZDA",
+      "MR 90",
+      "Other",
+      "RX-8",
+      "WAGON R"
+    ],
+    "MERCEDES-BENZ": [
+      "C180",
+      "C200",
+      "CLA 180",
+      "E200",
+      "E300",
+      "Other"
+    ],
+    "MG": [
+      "Other"
+    ],
+    "MICRO": [
+      "BAIC X25",
+      "MX7",
+      "Other",
+      "PANDA",
+      "PANDA 1.0",
+      "PANDA CROSS",
+      "PANDA LC 1.0",
+      "TREND"
+    ],
+    "MINI": [
+      "COOPER",
+      "Other"
+    ],
+    "MITSUBISHI": [
+      "C12",
+      "GALANT",
+      "LANCER",
+      "LANCER BOX",
+      "LANCER C12",
+      "LANCER CK1",
+      "LANCER CK2",
+      "LANCER CS1",
+      "LANCER CS1 GLX",
+      "LANCER WAGON",
+      "MINICA",
+      "MIRAGE",
+      "MITSUBISHI",
+      "Other"
+    ],
+    "MORRIS": [
+      "MINI COOPER"
+    ],
+    "NISSAN": [
+      "AD WAGON",
+      "AD WAGON Y10",
+      "AD WAGON Y11",
+      "AK12",
+      "B11",
+      "B12",
+      "B14",
+      "B15",
+      "BLUEBIRD",
+      "BLUEBIRD SU14",
+      "BLUEBIRD SYLPHY",
+      "CEFIRO",
+      "DAYZ",
+      "DAYZ HIGHWAY STAR",
+      "DOCTOR SUNNY",
+      "FB12",
+      "FB12 TRAD SUNNY",
+      "FB13",
+      "FB13 DOCTOR SUNNY",
+      "FB14",
+      "FB14 SUPER SALOON",
+      "FB15",
+      "FB15 EX SALOON",
+      "FB15 SUPER SALOON",
+      "HB11",
+      "HB12",
+      "LEAF",
+      "LEAF AZEO",
+      "MARCH",
+      "MARCH AK12",
+      "MARCH K10",
+      "MARCH K11",
+      "MARCH K12",
+      "N16",
+      "N16 EX SALOON",
+      "N16 SUNNY",
+      "N16 SUPER SALOON",
+      "N17",
+      "Other",
+      "PRESEA",
+      "PRIMERA",
+      "PULSAR",
+      "PULSAR FN15",
+      "SB14",
+      "SUNNY",
+      "SUNNY FB13",
+      "SUNNY FB14",
+      "SUNNY FB15",
+      "SUPER SALOON",
+      "TIIDA",
+      "TIIDA LATIO",
+      "TRAD SUNNY",
+      "TRAD SUNNY HB12",
+      "WINGROAD",
+      "WINGROAD WFY11"
+    ],
+    "OPEL": [
+      "Other"
+    ],
+    "OTHER": [
+      "Other"
+    ],
+    "PERODUA": [
+      "AXIA",
+      "BEZZA",
+      "KELISA",
+      "KENARI",
+      "Other",
+      "VIVA ELITE",
+      "VIVA ELITE PREMIUM"
+    ],
+    "PEUGEOT": [
+      "406",
+      "407",
+      "Other"
+    ],
+    "PROTON": [
+      "Other",
+      "SAGA",
+      "WIRA"
+    ],
+    "RENAULT": [
+      "KWID",
+      "KWID RXT",
+      "Other"
+    ],
+    "SEAT": [
+      "Other"
+    ],
+    "SKODA": [
+      "Other"
+    ],
+    "SUBARU": [
+      "Other"
+    ],
+    "SUZUKI": [
+      "A-STAR",
+      "ALTO",
+      "ALTO 800",
+      "ALTO 800 LXI",
+      "ALTO JAPAN",
+      "ALTO K10",
+      "ALTO K10 VXI",
+      "ALTO LXI",
+      "ALTO SPORT",
+      "BALENO",
+      "CELERIO",
+      "CELERIO VXI",
+      "CELERIO ZXI",
+      "ESTEEM",
+      "ESTILO",
+      "HUSTLER",
+      "MARUTI",
+      "MARUTI 800",
+      "MARUTI EFI",
+      "MARUTI ZEN",
+      "Other",
+      "SPACIA",
+      "SPACIA CUSTOM",
+      "SPACIA CUSTOM Z",
+      "SWIFT",
+      "SWIFT BEETLE",
+      "SWIFT CENTER ANTENNA",
+      "SWIFT JAPAN",
+      "SWIFT RS",
+      "SWIFT RS TURBO",
+      "WAGON R",
+      "WAGON R FX",
+      "WAGON R FX SAFETY",
+      "WAGON R FZ",
+      "WAGON R FZ PREMIUM",
+      "WAGON R FZ SAFETY",
+      "WAGON R PREMIUM",
+      "WAGON R STINGRAY",
+      "WAGON R STINGRAY J STYLE",
+      "WAGON R STINGRAY TURBO",
+      "ZEN",
+      "ZEN ESTILO"
+    ],
+    "TATA": [
+      "INDICA",
+      "INDIGO",
+      "NANO",
+      "NANO LX",
+      "NANO TWIST",
+      "Other"
+    ],
+    "TESLA": [
+      "Other"
+    ],
+    "TOYOTA": [
+      "110",
+      "AA60",
+      "AK12",
+      "ALLION",
+      "ALLION 240",
+      "ALLION 260",
+      "ALLION 260 G",
+      "ALLION 260 G GRADE",
+      "ALLION 260 G PLUS",
+      "ALLION G GRADE",
+      "AQUA",
+      "AQUA G",
+      "AQUA G GRADE",
+      "AQUA G LIMITED",
+      "AQUA S GRADE",
+      "AQUA S LIMITED",
+      "AQUA X URBAN",
+      "AVANZA",
+      "AXIO",
+      "AXIO 141",
+      "AXIO 161",
+      "AXIO G",
+      "AXIO G GRADE",
+      "AXIO WXB",
+      "AXIO X GRADE",
+      "AXIO X LIMITED",
+      "BELTA",
+      "CAMRY",
+      "CARINA",
+      "CARINA AA60",
+      "CE100",
+      "CE110",
+      "COROLLA",
+      "COROLLA 110",
+      "COROLLA 121",
+      "COROLLA 121 G",
+      "COROLLA 121 G GRADE",
+      "COROLLA 141",
+      "COROLLA 2",
+      "COROLLA AE100",
+      "COROLLA AE110",
+      "COROLLA AE80",
+      "COROLLA CE110",
+      "COROLLA CE90",
+      "COROLLA DX WAGON",
+      "COROLLA KE72",
+      "COROLLA WAGON",
+      "CORONA",
+      "CORONA PREMIO",
+      "CORSA",
+      "CROWN",
+      "DX WAGON",
+      "DX WAGON KE72",
+      "IST",
+      "IST FL GRADE",
+      "KE72",
+      "Other",
+      "PASSO",
+      "PREMIO",
+      "PREMIO 240",
+      "PREMIO 260",
+      "PREMIO G SUPERIOR",
+      "PRIUS",
+      "PRIUS S TOURING",
+      "SOLUNA",
+      "SPRINTER",
+      "STARLET",
+      "STARLET EP82",
+      "STARLET EP91",
+      "STARLET GLANZA",
+      "STARLET GT",
+      "TANK",
+      "TERCEL",
+      "TOYOTA",
+      "VIOS",
+      "VIOS S GRADE",
+      "VITZ",
+      "VITZ EDITION 2",
+      "VITZ EDITION 3",
+      "VITZ KSP130",
+      "VITZ KSP90",
+      "VITZ SAFETY",
+      "VITZ SAFETY EDITION",
+      "VITZ SAFETY EDITION 2",
+      "VITZ SCP90",
+      "WIGO",
+      "YARIS"
+    ],
+    "VOLKSWAGEN": [
+      "Other"
+    ],
+    "VOLVO": [
+      "Other",
+      "S40"
+    ],
+    "WILLYS": [
+      "Other"
+    ],
+    "ZOTYE": [
+      "Other",
+      "Z100"
+    ]
+  },
+  "gears": [
+    "Automatic",
+    "Manual"
+  ],
+  "fuels": [
+    "Diesel",
+    "Electric",
+    "Hybrid",
+    "Petrol"
+  ],
+  "towns": [
+    "Anuradapura",
+    "Colombo",
+    "Dehiwala-Mount-Lavinia",
+    "Galle",
+    "Gampaha",
+    "Homagama",
+    "Horana",
+    "Ja-Ela",
+    "Kadawatha",
+    "Kaduwela",
+    "Kalutara",
+    "Kandy",
+    "Kegalle",
+    "Kottawa",
+    "Kuliyapitiya",
+    "Kurunegala",
+    "Malabe",
+    "Matara",
+    "Moratuwa",
+    "Negombo",
+    "Nittambuwa",
+    "Nugegoda",
+    "Other",
+    "Panadura",
+    "Piliyandala",
+    "Ratnapura"
+  ],
+  "leasings": [
+    "No Leasing",
+    "Ongoing Lease"
+  ],
+  "conditions": [
+    "NEW",
+    "USED"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Bagging (Random Forest)": {
+    "RMSE (LKR M)": 1.241,
+    "MAE (LKR M)": 0.576,
+    "R2 Score": 0.9112,
+    "Train Time (s)": 22.58
+  },
+  "Boosting (Gradient Boosting)": {
+    "RMSE (LKR M)": 1.307,
+    "MAE (LKR M)": 0.664,
+    "R2 Score": 0.9015,
+    "Train Time (s)": 23.47
+  },
+  "Boosting (XGBoost)": {
+    "RMSE (LKR M)": 1.285,
+    "MAE (LKR M)": 0.611,
+    "R2 Score": 0.9048,
+    "Train Time (s)": 1.61
+  },
+  "Stacking (RF + XGB + GBR)": {
+    "RMSE (LKR M)": 1.262,
+    "MAE (LKR M)": 0.603,
+    "R2 Score": 0.9081,
+    "Train Time (s)": 145.64
+  },
+  "Hybrid (RF + ANN)": {
+    "RMSE (LKR M)": 1.219,
+    "MAE (LKR M)": 0.594,
+    "R2 Score": 0.9143,
+    "Train Time (s)": 16.62
+  }
+}
