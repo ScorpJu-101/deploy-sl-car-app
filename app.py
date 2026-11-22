@@ -158,5 +158,5 @@ with tab4:
     )
     st.markdown(
         "**Dataset:** Real Sri Lankan used vehicle listings (9,788 records scraped from local marketplaces like "
-        "ikman.lk and Riyasewana.lk), converted from LKR Lakhs to LKR Millions."
+        "ikman.lk and Riyasewana.lk - kaggle link - https://www.kaggle.com/datasets/prasadnirmal/srilankan-second-vehiclecar-price-dataset?resource=download), converted from LKR Lakhs to LKR Millions."
     )
