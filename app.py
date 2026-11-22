@@ -155,7 +155,6 @@ with tab4:
     st.info(
         "In accordance with CM4371 assignment guidelines, Generative AI (Gemini) was used to assist with "
         "Python data-cleaning boilerplate, Streamlit UI layout, and structuring the model comparison pipeline. "
-        "All training runs, evaluations, and analytical conclusions were executed and verified by the student."
     )
     st.markdown(
         "**Dataset:** Real Sri Lankan used vehicle listings (9,788 records scraped from local marketplaces like "
