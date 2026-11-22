@@ -45,8 +45,10 @@ with tab1:
     with c2:
         engine_cc = st.number_input("Engine Capacity (cc)", min_value=600, max_value=5000, value=1500, step=100)
         mileage_km = st.number_input("Mileage (KM)", min_value=0, max_value=400000, value=65000, step=5000)
-        gear = st.selectbox("Transmission (Gear)", ui_options["gears"])
-        fuel = st.selectbox("Fuel Type", ui_options["fuels"])
+        bm_key = f"{brand}|{model_name}"
+     gear = st.selectbox("Transmission (Gear)", ui_options.get("model_to_gears", {}).get(bm_key, ui_options["gears"]))
+     fuel = st.selectbox("Fuel Type", ui_options.get("model_to_fuels", {}).get(bm_key, ui_options["fuels"]))
+       
 
     with c3:
         towns = ui_options["towns"]

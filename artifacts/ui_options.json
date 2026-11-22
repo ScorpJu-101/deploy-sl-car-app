@@ -44,6 +44,7 @@
       "TANK"
     ],
     "DATSUN": [
+      "B310",
       "Other",
       "REDI-GO"
     ],
@@ -82,6 +83,7 @@
       "FREED",
       "GRACE",
       "GRACE EX",
+      "GRACE EX GRADE",
       "INSIGHT",
       "INSIGHT ZE2",
       "N BOX",
@@ -108,6 +110,9 @@
       "Other"
     ],
     "JAGUAR": [
+      "Other"
+    ],
+    "JEEP": [
       "Other"
     ],
     "JONWAY": [
@@ -140,6 +145,7 @@
       "MR 90",
       "Other",
       "RX-8",
+      "WAGON",
       "WAGON R"
     ],
     "MERCEDES-BENZ": [
@@ -169,6 +175,7 @@
     ],
     "MITSUBISHI": [
       "C12",
+      "COLT",
       "GALANT",
       "LANCER",
       "LANCER BOX",
@@ -181,10 +188,12 @@
       "MINICA",
       "MIRAGE",
       "MITSUBISHI",
-      "Other"
+      "Other",
+      "WAGON"
     ],
     "MORRIS": [
-      "MINI COOPER"
+      "MINI COOPER",
+      "Other"
     ],
     "NISSAN": [
       "AD WAGON",
@@ -195,6 +204,7 @@
       "B12",
       "B14",
       "B15",
+      "B310",
       "BLUEBIRD",
       "BLUEBIRD SU14",
       "BLUEBIRD SYLPHY",
@@ -213,6 +223,7 @@
       "FB15 SUPER SALOON",
       "HB11",
       "HB12",
+      "HB310",
       "LEAF",
       "LEAF AZEO",
       "MARCH",
@@ -354,6 +365,7 @@
       "AQUA G LIMITED",
       "AQUA S GRADE",
       "AQUA S LIMITED",
+      "AQUA URBAN",
       "AQUA X URBAN",
       "AVANZA",
       "AXIO",
@@ -370,6 +382,7 @@
       "CARINA AA60",
       "CE100",
       "CE110",
+      "CE90",
       "COROLLA",
       "COROLLA 110",
       "COROLLA 121",
@@ -423,6 +436,7 @@
       "VITZ SAFETY EDITION",
       "VITZ SAFETY EDITION 2",
       "VITZ SCP90",
+      "WAGON",
       "WIGO",
       "YARIS"
     ],
@@ -439,6 +453,2450 @@
     "ZOTYE": [
       "Other",
       "Z100"
+    ]
+  },
+  "model_to_fuels": {
+    "AUDI|A1": [
+      "Petrol"
+    ],
+    "AUDI|A4": [
+      "Diesel",
+      "Petrol"
+    ],
+    "AUDI|A6": [
+      "Diesel",
+      "Petrol"
+    ],
+    "AUDI|Other": [
+      "Diesel",
+      "Electric",
+      "Hybrid",
+      "Petrol"
+    ],
+    "AUSTIN|MINI COOPER": [
+      "Petrol"
+    ],
+    "AUSTIN|Other": [
+      "Petrol"
+    ],
+    "BAJAJ|QUTE": [
+      "Petrol"
+    ],
+    "BMW|320D": [
+      "Diesel"
+    ],
+    "BMW|520D": [
+      "Diesel"
+    ],
+    "BMW|MINI COOPER": [
+      "Petrol"
+    ],
+    "BMW|Other": [
+      "Diesel",
+      "Hybrid",
+      "Petrol"
+    ],
+    "BYD|Other": [
+      "Electric"
+    ],
+    "CHERY|Other": [
+      "Petrol"
+    ],
+    "CHERY|QQ": [
+      "Petrol"
+    ],
+    "CHEVROLET|CRUZE": [
+      "Petrol"
+    ],
+    "CHEVROLET|Other": [
+      "Petrol"
+    ],
+    "CITROEN|Other": [
+      "Electric"
+    ],
+    "DAEWOO|Other": [
+      "Petrol"
+    ],
+    "DAIHATSU|CHARADE": [
+      "Diesel",
+      "Petrol"
+    ],
+    "DAIHATSU|MIRA": [
+      "Petrol"
+    ],
+    "DAIHATSU|MOVE": [
+      "Petrol"
+    ],
+    "DAIHATSU|Other": [
+      "Diesel",
+      "Petrol"
+    ],
+    "DAIHATSU|TANK": [
+      "Petrol"
+    ],
+    "DATSUN|B310": [
+      "Petrol"
+    ],
+    "DATSUN|Other": [
+      "Petrol"
+    ],
+    "DATSUN|REDI-GO": [
+      "Petrol"
+    ],
+    "FIAT|Other": [
+      "Diesel",
+      "Petrol"
+    ],
+    "FIAT|PUNTO": [
+      "Petrol"
+    ],
+    "FORD|LASER": [
+      "Diesel",
+      "Petrol"
+    ],
+    "FORD|Other": [
+      "Diesel",
+      "Petrol"
+    ],
+    "FOTON|Other": [
+      "Petrol"
+    ],
+    "FOTON|SAGA": [
+      "Petrol"
+    ],
+    "HONDA|CITY": [
+      "Petrol"
+    ],
+    "HONDA|CIVIC": [
+      "Petrol"
+    ],
+    "HONDA|CIVIC EK3": [
+      "Petrol"
+    ],
+    "HONDA|CIVIC ES8": [
+      "Petrol"
+    ],
+    "HONDA|CIVIC EX": [
+      "Petrol"
+    ],
+    "HONDA|CIVIC FD1": [
+      "Petrol"
+    ],
+    "HONDA|CIVIC FD3": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|FIT": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|FIT ARIA": [
+      "Petrol"
+    ],
+    "HONDA|FIT GD1": [
+      "Petrol"
+    ],
+    "HONDA|FIT GE6": [
+      "Petrol"
+    ],
+    "HONDA|FIT GP1": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|FIT GP1 NAVI PREMIUM": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|FIT GP4 RS": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|FIT GP5": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|FIT GP5 L GRADE": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|FIT GP5 S GRADE": [
+      "Electric",
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|FIT SHUTTLE": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|FIT SHUTTLE GP7": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|FREED": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|GRACE": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|GRACE EX": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|GRACE EX GRADE": [
+      "Hybrid"
+    ],
+    "HONDA|INSIGHT": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|INSIGHT ZE2": [
+      "Electric",
+      "Hybrid",
+      "Petrol"
+    ],
+    "HONDA|N BOX": [
+      "Petrol"
+    ],
+    "HONDA|N BOX CUSTOM": [
+      "Petrol"
+    ],
+    "HONDA|N WGN": [
+      "Petrol"
+    ],
+    "HONDA|Other": [
+      "Diesel",
+      "Hybrid",
+      "Petrol"
+    ],
+    "HYUNDAI|ACCENT": [
+      "Diesel",
+      "Petrol"
+    ],
+    "HYUNDAI|ELANTRA": [
+      "Diesel",
+      "Petrol"
+    ],
+    "HYUNDAI|EON": [
+      "Petrol"
+    ],
+    "HYUNDAI|EON MAGNA PLUS": [
+      "Petrol"
+    ],
+    "HYUNDAI|GRAND I10": [
+      "Petrol"
+    ],
+    "HYUNDAI|MATRIX": [
+      "Petrol"
+    ],
+    "HYUNDAI|Other": [
+      "Diesel",
+      "Electric",
+      "Petrol"
+    ],
+    "HYUNDAI|SONATA": [
+      "Petrol"
+    ],
+    "HYUNDAI|TRAJET": [
+      "Diesel",
+      "Petrol"
+    ],
+    "ISUZU|GEMINI": [
+      "Diesel",
+      "Petrol"
+    ],
+    "ISUZU|Other": [
+      "Diesel"
+    ],
+    "JAC|Other": [
+      "Diesel"
+    ],
+    "JAGUAR|Other": [
+      "Petrol"
+    ],
+    "JEEP|Other": [
+      "Diesel"
+    ],
+    "JONWAY|Other": [
+      "Petrol"
+    ],
+    "KIA|Other": [
+      "Petrol"
+    ],
+    "KIA|PICANTO": [
+      "Petrol"
+    ],
+    "KIA|RIO": [
+      "Petrol"
+    ],
+    "KIA|SEPHIA": [
+      "Petrol"
+    ],
+    "KIA|SPECTRA": [
+      "Petrol"
+    ],
+    "LAND-ROVER|Other": [
+      "Diesel"
+    ],
+    "LEXUS|Other": [
+      "Petrol"
+    ],
+    "MAHINDRA|Other": [
+      "Petrol"
+    ],
+    "MAZDA|3": [
+      "Petrol"
+    ],
+    "MAZDA|323": [
+      "Petrol"
+    ],
+    "MAZDA|AXELA": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "MAZDA|DEMIO": [
+      "Petrol"
+    ],
+    "MAZDA|FAMILIA": [
+      "Diesel",
+      "Petrol"
+    ],
+    "MAZDA|FAMILIA BJ5P": [
+      "Petrol"
+    ],
+    "MAZDA|MAZDA": [
+      "Petrol"
+    ],
+    "MAZDA|MR 90": [
+      "Petrol"
+    ],
+    "MAZDA|Other": [
+      "Petrol"
+    ],
+    "MAZDA|RX-8": [
+      "Petrol"
+    ],
+    "MAZDA|WAGON": [
+      "Diesel",
+      "Petrol"
+    ],
+    "MAZDA|WAGON R": [
+      "Hybrid"
+    ],
+    "MERCEDES-BENZ|C180": [
+      "Petrol"
+    ],
+    "MERCEDES-BENZ|C200": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "MERCEDES-BENZ|CLA 180": [
+      "Petrol"
+    ],
+    "MERCEDES-BENZ|E200": [
+      "Diesel",
+      "Petrol"
+    ],
+    "MERCEDES-BENZ|E300": [
+      "Diesel",
+      "Hybrid"
+    ],
+    "MERCEDES-BENZ|Other": [
+      "Diesel",
+      "Hybrid",
+      "Petrol"
+    ],
+    "MG|Other": [
+      "Electric",
+      "Petrol"
+    ],
+    "MICRO|BAIC X25": [
+      "Petrol"
+    ],
+    "MICRO|MX7": [
+      "Petrol"
+    ],
+    "MICRO|Other": [
+      "Diesel",
+      "Petrol"
+    ],
+    "MICRO|PANDA": [
+      "Petrol"
+    ],
+    "MICRO|PANDA 1.0": [
+      "Petrol"
+    ],
+    "MICRO|PANDA CROSS": [
+      "Petrol"
+    ],
+    "MICRO|PANDA LC 1.0": [
+      "Petrol"
+    ],
+    "MICRO|TREND": [
+      "Petrol"
+    ],
+    "MINI|COOPER": [
+      "Petrol"
+    ],
+    "MINI|Other": [
+      "Petrol"
+    ],
+    "MITSUBISHI|C12": [
+      "Petrol"
+    ],
+    "MITSUBISHI|COLT": [
+      "Petrol"
+    ],
+    "MITSUBISHI|GALANT": [
+      "Diesel",
+      "Petrol"
+    ],
+    "MITSUBISHI|LANCER": [
+      "Diesel",
+      "Petrol"
+    ],
+    "MITSUBISHI|LANCER BOX": [
+      "Petrol"
+    ],
+    "MITSUBISHI|LANCER C12": [
+      "Petrol"
+    ],
+    "MITSUBISHI|LANCER CK1": [
+      "Petrol"
+    ],
+    "MITSUBISHI|LANCER CK2": [
+      "Petrol"
+    ],
+    "MITSUBISHI|LANCER CS1": [
+      "Petrol"
+    ],
+    "MITSUBISHI|LANCER CS1 GLX": [
+      "Petrol"
+    ],
+    "MITSUBISHI|LANCER WAGON": [
+      "Petrol"
+    ],
+    "MITSUBISHI|MINICA": [
+      "Petrol"
+    ],
+    "MITSUBISHI|MIRAGE": [
+      "Petrol"
+    ],
+    "MITSUBISHI|MITSUBISHI": [
+      "Diesel",
+      "Electric",
+      "Petrol"
+    ],
+    "MITSUBISHI|Other": [
+      "Diesel",
+      "Petrol"
+    ],
+    "MITSUBISHI|WAGON": [
+      "Petrol"
+    ],
+    "MORRIS|MINI COOPER": [
+      "Petrol"
+    ],
+    "MORRIS|Other": [
+      "Petrol"
+    ],
+    "NISSAN|AD WAGON": [
+      "Petrol"
+    ],
+    "NISSAN|AD WAGON Y10": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|AD WAGON Y11": [
+      "Petrol"
+    ],
+    "NISSAN|AK12": [
+      "Petrol"
+    ],
+    "NISSAN|B11": [
+      "Petrol"
+    ],
+    "NISSAN|B12": [
+      "Petrol"
+    ],
+    "NISSAN|B14": [
+      "Petrol"
+    ],
+    "NISSAN|B15": [
+      "Petrol"
+    ],
+    "NISSAN|B310": [
+      "Petrol"
+    ],
+    "NISSAN|BLUEBIRD": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|BLUEBIRD SU14": [
+      "Diesel"
+    ],
+    "NISSAN|BLUEBIRD SYLPHY": [
+      "Petrol"
+    ],
+    "NISSAN|CEFIRO": [
+      "Petrol"
+    ],
+    "NISSAN|DAYZ": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "NISSAN|DAYZ HIGHWAY STAR": [
+      "Petrol"
+    ],
+    "NISSAN|DOCTOR SUNNY": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|FB12": [
+      "Petrol"
+    ],
+    "NISSAN|FB12 TRAD SUNNY": [
+      "Petrol"
+    ],
+    "NISSAN|FB13": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|FB13 DOCTOR SUNNY": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|FB14": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|FB14 SUPER SALOON": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|FB15": [
+      "Petrol"
+    ],
+    "NISSAN|FB15 EX SALOON": [
+      "Petrol"
+    ],
+    "NISSAN|FB15 SUPER SALOON": [
+      "Petrol"
+    ],
+    "NISSAN|HB11": [
+      "Petrol"
+    ],
+    "NISSAN|HB12": [
+      "Petrol"
+    ],
+    "NISSAN|HB310": [
+      "Petrol"
+    ],
+    "NISSAN|LEAF": [
+      "Electric"
+    ],
+    "NISSAN|LEAF AZEO": [
+      "Electric",
+      "Hybrid"
+    ],
+    "NISSAN|MARCH": [
+      "Petrol"
+    ],
+    "NISSAN|MARCH AK12": [
+      "Petrol"
+    ],
+    "NISSAN|MARCH K10": [
+      "Petrol"
+    ],
+    "NISSAN|MARCH K11": [
+      "Petrol"
+    ],
+    "NISSAN|MARCH K12": [
+      "Petrol"
+    ],
+    "NISSAN|N16": [
+      "Petrol"
+    ],
+    "NISSAN|N16 EX SALOON": [
+      "Petrol"
+    ],
+    "NISSAN|N16 SUNNY": [
+      "Petrol"
+    ],
+    "NISSAN|N16 SUPER SALOON": [
+      "Petrol"
+    ],
+    "NISSAN|N17": [
+      "Petrol"
+    ],
+    "NISSAN|Other": [
+      "Diesel",
+      "Electric",
+      "Hybrid",
+      "Petrol"
+    ],
+    "NISSAN|PRESEA": [
+      "Petrol"
+    ],
+    "NISSAN|PRIMERA": [
+      "Petrol"
+    ],
+    "NISSAN|PULSAR": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|PULSAR FN15": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|SB14": [
+      "Diesel"
+    ],
+    "NISSAN|SUNNY": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|SUNNY FB13": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|SUNNY FB14": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|SUNNY FB15": [
+      "Petrol"
+    ],
+    "NISSAN|SUPER SALOON": [
+      "Petrol"
+    ],
+    "NISSAN|TIIDA": [
+      "Petrol"
+    ],
+    "NISSAN|TIIDA LATIO": [
+      "Petrol"
+    ],
+    "NISSAN|TRAD SUNNY": [
+      "Diesel",
+      "Petrol"
+    ],
+    "NISSAN|TRAD SUNNY HB12": [
+      "Petrol"
+    ],
+    "NISSAN|WINGROAD": [
+      "Petrol"
+    ],
+    "NISSAN|WINGROAD WFY11": [
+      "Petrol"
+    ],
+    "OPEL|Other": [
+      "Diesel",
+      "Petrol"
+    ],
+    "OTHER|Other": [
+      "Petrol"
+    ],
+    "PERODUA|AXIA": [
+      "Petrol"
+    ],
+    "PERODUA|BEZZA": [
+      "Petrol"
+    ],
+    "PERODUA|KELISA": [
+      "Petrol"
+    ],
+    "PERODUA|KENARI": [
+      "Petrol"
+    ],
+    "PERODUA|Other": [
+      "Petrol"
+    ],
+    "PERODUA|VIVA ELITE": [
+      "Diesel",
+      "Petrol"
+    ],
+    "PERODUA|VIVA ELITE PREMIUM": [
+      "Petrol"
+    ],
+    "PEUGEOT|406": [
+      "Diesel",
+      "Petrol"
+    ],
+    "PEUGEOT|407": [
+      "Diesel",
+      "Petrol"
+    ],
+    "PEUGEOT|Other": [
+      "Diesel",
+      "Petrol"
+    ],
+    "PROTON|Other": [
+      "Petrol"
+    ],
+    "PROTON|SAGA": [
+      "Petrol"
+    ],
+    "PROTON|WIRA": [
+      "Petrol"
+    ],
+    "RENAULT|KWID": [
+      "Petrol"
+    ],
+    "RENAULT|KWID RXT": [
+      "Petrol"
+    ],
+    "RENAULT|Other": [
+      "Petrol"
+    ],
+    "SEAT|Other": [
+      "Petrol"
+    ],
+    "SKODA|Other": [
+      "Petrol"
+    ],
+    "SUBARU|Other": [
+      "Petrol"
+    ],
+    "SUZUKI|A-STAR": [
+      "Petrol"
+    ],
+    "SUZUKI|ALTO": [
+      "Petrol"
+    ],
+    "SUZUKI|ALTO 800": [
+      "Petrol"
+    ],
+    "SUZUKI|ALTO 800 LXI": [
+      "Petrol"
+    ],
+    "SUZUKI|ALTO JAPAN": [
+      "Electric",
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|ALTO K10": [
+      "Petrol"
+    ],
+    "SUZUKI|ALTO K10 VXI": [
+      "Petrol"
+    ],
+    "SUZUKI|ALTO LXI": [
+      "Petrol"
+    ],
+    "SUZUKI|ALTO SPORT": [
+      "Petrol"
+    ],
+    "SUZUKI|BALENO": [
+      "Petrol"
+    ],
+    "SUZUKI|CELERIO": [
+      "Petrol"
+    ],
+    "SUZUKI|CELERIO VXI": [
+      "Petrol"
+    ],
+    "SUZUKI|CELERIO ZXI": [
+      "Petrol"
+    ],
+    "SUZUKI|ESTEEM": [
+      "Petrol"
+    ],
+    "SUZUKI|ESTILO": [
+      "Petrol"
+    ],
+    "SUZUKI|HUSTLER": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|MARUTI": [
+      "Diesel",
+      "Petrol"
+    ],
+    "SUZUKI|MARUTI 800": [
+      "Petrol"
+    ],
+    "SUZUKI|MARUTI EFI": [
+      "Petrol"
+    ],
+    "SUZUKI|MARUTI ZEN": [
+      "Petrol"
+    ],
+    "SUZUKI|Other": [
+      "Diesel",
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|SPACIA": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|SPACIA CUSTOM": [
+      "Electric",
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|SPACIA CUSTOM Z": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|SWIFT": [
+      "Diesel",
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|SWIFT BEETLE": [
+      "Petrol"
+    ],
+    "SUZUKI|SWIFT CENTER ANTENNA": [
+      "Petrol"
+    ],
+    "SUZUKI|SWIFT JAPAN": [
+      "Petrol"
+    ],
+    "SUZUKI|SWIFT RS": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|SWIFT RS TURBO": [
+      "Petrol"
+    ],
+    "SUZUKI|WAGON R": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|WAGON R FX": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|WAGON R FX SAFETY": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|WAGON R FZ": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|WAGON R FZ PREMIUM": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|WAGON R FZ SAFETY": [
+      "Electric",
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|WAGON R PREMIUM": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|WAGON R STINGRAY": [
+      "Diesel",
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|WAGON R STINGRAY J STYLE": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|WAGON R STINGRAY TURBO": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "SUZUKI|ZEN": [
+      "Petrol"
+    ],
+    "SUZUKI|ZEN ESTILO": [
+      "Petrol"
+    ],
+    "TATA|INDICA": [
+      "Petrol"
+    ],
+    "TATA|INDIGO": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TATA|NANO": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TATA|NANO LX": [
+      "Petrol"
+    ],
+    "TATA|NANO TWIST": [
+      "Petrol"
+    ],
+    "TATA|Other": [
+      "Petrol"
+    ],
+    "TESLA|Other": [
+      "Electric"
+    ],
+    "TOYOTA|110": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|AA60": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|AK12": [
+      "Petrol"
+    ],
+    "TOYOTA|ALLION": [
+      "Petrol"
+    ],
+    "TOYOTA|ALLION 240": [
+      "Petrol"
+    ],
+    "TOYOTA|ALLION 260": [
+      "Petrol"
+    ],
+    "TOYOTA|ALLION 260 G": [
+      "Petrol"
+    ],
+    "TOYOTA|ALLION 260 G GRADE": [
+      "Petrol"
+    ],
+    "TOYOTA|ALLION 260 G PLUS": [
+      "Petrol"
+    ],
+    "TOYOTA|ALLION G GRADE": [
+      "Petrol"
+    ],
+    "TOYOTA|AQUA": [
+      "Electric",
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AQUA G": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AQUA G GRADE": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AQUA G LIMITED": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AQUA S GRADE": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AQUA S LIMITED": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AQUA URBAN": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AQUA X URBAN": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AVANZA": [
+      "Petrol"
+    ],
+    "TOYOTA|AXIO": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AXIO 141": [
+      "Petrol"
+    ],
+    "TOYOTA|AXIO 161": [
+      "Petrol"
+    ],
+    "TOYOTA|AXIO G": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AXIO G GRADE": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AXIO WXB": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|AXIO X GRADE": [
+      "Petrol"
+    ],
+    "TOYOTA|AXIO X LIMITED": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|BELTA": [
+      "Petrol"
+    ],
+    "TOYOTA|CAMRY": [
+      "Diesel",
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|CARINA": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|CARINA AA60": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|CE100": [
+      "Diesel"
+    ],
+    "TOYOTA|CE110": [
+      "Diesel"
+    ],
+    "TOYOTA|CE90": [
+      "Diesel"
+    ],
+    "TOYOTA|COROLLA": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA 110": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA 121": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA 121 G": [
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA 121 G GRADE": [
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA 141": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA 2": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA AE100": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA AE110": [
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA AE80": [
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA CE110": [
+      "Diesel"
+    ],
+    "TOYOTA|COROLLA CE90": [
+      "Diesel"
+    ],
+    "TOYOTA|COROLLA DX WAGON": [
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA KE72": [
+      "Petrol"
+    ],
+    "TOYOTA|COROLLA WAGON": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|CORONA": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|CORONA PREMIO": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|CORSA": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|CROWN": [
+      "Diesel",
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|DX WAGON": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|DX WAGON KE72": [
+      "Petrol"
+    ],
+    "TOYOTA|IST": [
+      "Petrol"
+    ],
+    "TOYOTA|IST FL GRADE": [
+      "Petrol"
+    ],
+    "TOYOTA|KE72": [
+      "Petrol"
+    ],
+    "TOYOTA|Other": [
+      "Diesel",
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|PASSO": [
+      "Petrol"
+    ],
+    "TOYOTA|PREMIO": [
+      "Diesel",
+      "Electric",
+      "Petrol"
+    ],
+    "TOYOTA|PREMIO 240": [
+      "Petrol"
+    ],
+    "TOYOTA|PREMIO 260": [
+      "Petrol"
+    ],
+    "TOYOTA|PREMIO G SUPERIOR": [
+      "Petrol"
+    ],
+    "TOYOTA|PRIUS": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|PRIUS S TOURING": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|SOLUNA": [
+      "Petrol"
+    ],
+    "TOYOTA|SPRINTER": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|STARLET": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|STARLET EP82": [
+      "Petrol"
+    ],
+    "TOYOTA|STARLET EP91": [
+      "Petrol"
+    ],
+    "TOYOTA|STARLET GLANZA": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|STARLET GT": [
+      "Petrol"
+    ],
+    "TOYOTA|TANK": [
+      "Petrol"
+    ],
+    "TOYOTA|TERCEL": [
+      "Petrol"
+    ],
+    "TOYOTA|TOYOTA": [
+      "Diesel",
+      "Petrol"
+    ],
+    "TOYOTA|VIOS": [
+      "Petrol"
+    ],
+    "TOYOTA|VIOS S GRADE": [
+      "Petrol"
+    ],
+    "TOYOTA|VITZ": [
+      "Hybrid",
+      "Petrol"
+    ],
+    "TOYOTA|VITZ EDITION 2": [
+      "Petrol"
+    ],
+    "TOYOTA|VITZ EDITION 3": [
+      "Petrol"
+    ],
+    "TOYOTA|VITZ KSP130": [
+      "Petrol"
+    ],
+    "TOYOTA|VITZ KSP90": [
+      "Petrol"
+    ],
+    "TOYOTA|VITZ SAFETY": [
+      "Petrol"
+    ],
+    "TOYOTA|VITZ SAFETY EDITION": [
+      "Petrol"
+    ],
+    "TOYOTA|VITZ SAFETY EDITION 2": [
+      "Petrol"
+    ],
+    "TOYOTA|VITZ SCP90": [
+      "Petrol"
+    ],
+    "TOYOTA|WAGON": [
+      "Diesel"
+    ],
+    "TOYOTA|WIGO": [
+      "Petrol"
+    ],
+    "TOYOTA|YARIS": [
+      "Petrol"
+    ],
+    "VOLKSWAGEN|Other": [
+      "Diesel",
+      "Electric",
+      "Petrol"
+    ],
+    "VOLVO|Other": [
+      "Diesel",
+      "Petrol"
+    ],
+    "VOLVO|S40": [
+      "Diesel",
+      "Petrol"
+    ],
+    "WILLYS|Other": [
+      "Diesel"
+    ],
+    "ZOTYE|Other": [
+      "Petrol"
+    ],
+    "ZOTYE|Z100": [
+      "Petrol"
+    ]
+  },
+  "model_to_gears": {
+    "AUDI|A1": [
+      "Automatic"
+    ],
+    "AUDI|A4": [
+      "Automatic",
+      "Manual"
+    ],
+    "AUDI|A6": [
+      "Automatic",
+      "Manual"
+    ],
+    "AUDI|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "AUSTIN|MINI COOPER": [
+      "Automatic",
+      "Manual"
+    ],
+    "AUSTIN|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "BAJAJ|QUTE": [
+      "Manual"
+    ],
+    "BMW|320D": [
+      "Automatic",
+      "Manual"
+    ],
+    "BMW|520D": [
+      "Automatic"
+    ],
+    "BMW|MINI COOPER": [
+      "Automatic"
+    ],
+    "BMW|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "BYD|Other": [
+      "Automatic"
+    ],
+    "CHERY|Other": [
+      "Manual"
+    ],
+    "CHERY|QQ": [
+      "Automatic",
+      "Manual"
+    ],
+    "CHEVROLET|CRUZE": [
+      "Automatic",
+      "Manual"
+    ],
+    "CHEVROLET|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "CITROEN|Other": [
+      "Manual"
+    ],
+    "DAEWOO|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "DAIHATSU|CHARADE": [
+      "Automatic",
+      "Manual"
+    ],
+    "DAIHATSU|MIRA": [
+      "Automatic",
+      "Manual"
+    ],
+    "DAIHATSU|MOVE": [
+      "Automatic"
+    ],
+    "DAIHATSU|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "DAIHATSU|TANK": [
+      "Automatic"
+    ],
+    "DATSUN|B310": [
+      "Manual"
+    ],
+    "DATSUN|Other": [
+      "Manual"
+    ],
+    "DATSUN|REDI-GO": [
+      "Manual"
+    ],
+    "FIAT|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "FIAT|PUNTO": [
+      "Automatic",
+      "Manual"
+    ],
+    "FORD|LASER": [
+      "Automatic",
+      "Manual"
+    ],
+    "FORD|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "FOTON|Other": [
+      "Automatic"
+    ],
+    "FOTON|SAGA": [
+      "Automatic"
+    ],
+    "HONDA|CITY": [
+      "Automatic",
+      "Manual"
+    ],
+    "HONDA|CIVIC": [
+      "Automatic",
+      "Manual"
+    ],
+    "HONDA|CIVIC EK3": [
+      "Automatic",
+      "Manual"
+    ],
+    "HONDA|CIVIC ES8": [
+      "Automatic",
+      "Manual"
+    ],
+    "HONDA|CIVIC EX": [
+      "Automatic"
+    ],
+    "HONDA|CIVIC FD1": [
+      "Automatic"
+    ],
+    "HONDA|CIVIC FD3": [
+      "Automatic"
+    ],
+    "HONDA|FIT": [
+      "Automatic"
+    ],
+    "HONDA|FIT ARIA": [
+      "Automatic",
+      "Manual"
+    ],
+    "HONDA|FIT GD1": [
+      "Automatic"
+    ],
+    "HONDA|FIT GE6": [
+      "Automatic"
+    ],
+    "HONDA|FIT GP1": [
+      "Automatic"
+    ],
+    "HONDA|FIT GP1 NAVI PREMIUM": [
+      "Automatic"
+    ],
+    "HONDA|FIT GP4 RS": [
+      "Automatic"
+    ],
+    "HONDA|FIT GP5": [
+      "Automatic"
+    ],
+    "HONDA|FIT GP5 L GRADE": [
+      "Automatic"
+    ],
+    "HONDA|FIT GP5 S GRADE": [
+      "Automatic"
+    ],
+    "HONDA|FIT SHUTTLE": [
+      "Automatic"
+    ],
+    "HONDA|FIT SHUTTLE GP7": [
+      "Automatic"
+    ],
+    "HONDA|FREED": [
+      "Automatic"
+    ],
+    "HONDA|GRACE": [
+      "Automatic"
+    ],
+    "HONDA|GRACE EX": [
+      "Automatic"
+    ],
+    "HONDA|GRACE EX GRADE": [
+      "Automatic"
+    ],
+    "HONDA|INSIGHT": [
+      "Automatic",
+      "Manual"
+    ],
+    "HONDA|INSIGHT ZE2": [
+      "Automatic"
+    ],
+    "HONDA|N BOX": [
+      "Automatic"
+    ],
+    "HONDA|N BOX CUSTOM": [
+      "Automatic"
+    ],
+    "HONDA|N WGN": [
+      "Automatic"
+    ],
+    "HONDA|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "HYUNDAI|ACCENT": [
+      "Automatic",
+      "Manual"
+    ],
+    "HYUNDAI|ELANTRA": [
+      "Automatic",
+      "Manual"
+    ],
+    "HYUNDAI|EON": [
+      "Manual"
+    ],
+    "HYUNDAI|EON MAGNA PLUS": [
+      "Manual"
+    ],
+    "HYUNDAI|GRAND I10": [
+      "Automatic"
+    ],
+    "HYUNDAI|MATRIX": [
+      "Automatic",
+      "Manual"
+    ],
+    "HYUNDAI|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "HYUNDAI|SONATA": [
+      "Automatic"
+    ],
+    "HYUNDAI|TRAJET": [
+      "Automatic"
+    ],
+    "ISUZU|GEMINI": [
+      "Automatic",
+      "Manual"
+    ],
+    "ISUZU|Other": [
+      "Manual"
+    ],
+    "JAC|Other": [
+      "Automatic"
+    ],
+    "JAGUAR|Other": [
+      "Automatic"
+    ],
+    "JEEP|Other": [
+      "Manual"
+    ],
+    "JONWAY|Other": [
+      "Manual"
+    ],
+    "KIA|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "KIA|PICANTO": [
+      "Automatic",
+      "Manual"
+    ],
+    "KIA|RIO": [
+      "Automatic",
+      "Manual"
+    ],
+    "KIA|SEPHIA": [
+      "Automatic",
+      "Manual"
+    ],
+    "KIA|SPECTRA": [
+      "Automatic"
+    ],
+    "LAND-ROVER|Other": [
+      "Manual"
+    ],
+    "LEXUS|Other": [
+      "Automatic"
+    ],
+    "MAHINDRA|Other": [
+      "Manual"
+    ],
+    "MAZDA|3": [
+      "Automatic",
+      "Manual"
+    ],
+    "MAZDA|323": [
+      "Automatic",
+      "Manual"
+    ],
+    "MAZDA|AXELA": [
+      "Automatic"
+    ],
+    "MAZDA|DEMIO": [
+      "Automatic",
+      "Manual"
+    ],
+    "MAZDA|FAMILIA": [
+      "Automatic",
+      "Manual"
+    ],
+    "MAZDA|FAMILIA BJ5P": [
+      "Automatic"
+    ],
+    "MAZDA|MAZDA": [
+      "Automatic",
+      "Manual"
+    ],
+    "MAZDA|MR 90": [
+      "Manual"
+    ],
+    "MAZDA|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "MAZDA|RX-8": [
+      "Automatic",
+      "Manual"
+    ],
+    "MAZDA|WAGON": [
+      "Manual"
+    ],
+    "MAZDA|WAGON R": [
+      "Automatic"
+    ],
+    "MERCEDES-BENZ|C180": [
+      "Automatic"
+    ],
+    "MERCEDES-BENZ|C200": [
+      "Automatic"
+    ],
+    "MERCEDES-BENZ|CLA 180": [
+      "Automatic"
+    ],
+    "MERCEDES-BENZ|E200": [
+      "Automatic",
+      "Manual"
+    ],
+    "MERCEDES-BENZ|E300": [
+      "Automatic"
+    ],
+    "MERCEDES-BENZ|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "MG|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "MICRO|BAIC X25": [
+      "Automatic"
+    ],
+    "MICRO|MX7": [
+      "Manual"
+    ],
+    "MICRO|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "MICRO|PANDA": [
+      "Automatic",
+      "Manual"
+    ],
+    "MICRO|PANDA 1.0": [
+      "Manual"
+    ],
+    "MICRO|PANDA CROSS": [
+      "Manual"
+    ],
+    "MICRO|PANDA LC 1.0": [
+      "Manual"
+    ],
+    "MICRO|TREND": [
+      "Automatic",
+      "Manual"
+    ],
+    "MINI|COOPER": [
+      "Automatic",
+      "Manual"
+    ],
+    "MINI|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|C12": [
+      "Manual"
+    ],
+    "MITSUBISHI|COLT": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|GALANT": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|LANCER": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|LANCER BOX": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|LANCER C12": [
+      "Manual"
+    ],
+    "MITSUBISHI|LANCER CK1": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|LANCER CK2": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|LANCER CS1": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|LANCER CS1 GLX": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|LANCER WAGON": [
+      "Manual"
+    ],
+    "MITSUBISHI|MINICA": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|MIRAGE": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|MITSUBISHI": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "MITSUBISHI|WAGON": [
+      "Manual"
+    ],
+    "MORRIS|MINI COOPER": [
+      "Manual"
+    ],
+    "MORRIS|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|AD WAGON": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|AD WAGON Y10": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|AD WAGON Y11": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|AK12": [
+      "Automatic"
+    ],
+    "NISSAN|B11": [
+      "Manual"
+    ],
+    "NISSAN|B12": [
+      "Manual"
+    ],
+    "NISSAN|B14": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|B15": [
+      "Automatic"
+    ],
+    "NISSAN|B310": [
+      "Manual"
+    ],
+    "NISSAN|BLUEBIRD": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|BLUEBIRD SU14": [
+      "Manual"
+    ],
+    "NISSAN|BLUEBIRD SYLPHY": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|CEFIRO": [
+      "Automatic"
+    ],
+    "NISSAN|DAYZ": [
+      "Automatic"
+    ],
+    "NISSAN|DAYZ HIGHWAY STAR": [
+      "Automatic"
+    ],
+    "NISSAN|DOCTOR SUNNY": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|FB12": [
+      "Manual"
+    ],
+    "NISSAN|FB12 TRAD SUNNY": [
+      "Manual"
+    ],
+    "NISSAN|FB13": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|FB13 DOCTOR SUNNY": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|FB14": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|FB14 SUPER SALOON": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|FB15": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|FB15 EX SALOON": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|FB15 SUPER SALOON": [
+      "Automatic"
+    ],
+    "NISSAN|HB11": [
+      "Manual"
+    ],
+    "NISSAN|HB12": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|HB310": [
+      "Manual"
+    ],
+    "NISSAN|LEAF": [
+      "Automatic"
+    ],
+    "NISSAN|LEAF AZEO": [
+      "Automatic"
+    ],
+    "NISSAN|MARCH": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|MARCH AK12": [
+      "Automatic"
+    ],
+    "NISSAN|MARCH K10": [
+      "Manual"
+    ],
+    "NISSAN|MARCH K11": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|MARCH K12": [
+      "Automatic"
+    ],
+    "NISSAN|N16": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|N16 EX SALOON": [
+      "Automatic"
+    ],
+    "NISSAN|N16 SUNNY": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|N16 SUPER SALOON": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|N17": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|PRESEA": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|PRIMERA": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|PULSAR": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|PULSAR FN15": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|SB14": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|SUNNY": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|SUNNY FB13": [
+      "Manual"
+    ],
+    "NISSAN|SUNNY FB14": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|SUNNY FB15": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|SUPER SALOON": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|TIIDA": [
+      "Automatic"
+    ],
+    "NISSAN|TIIDA LATIO": [
+      "Automatic"
+    ],
+    "NISSAN|TRAD SUNNY": [
+      "Manual"
+    ],
+    "NISSAN|TRAD SUNNY HB12": [
+      "Manual"
+    ],
+    "NISSAN|WINGROAD": [
+      "Automatic",
+      "Manual"
+    ],
+    "NISSAN|WINGROAD WFY11": [
+      "Automatic",
+      "Manual"
+    ],
+    "OPEL|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "OTHER|Other": [
+      "Automatic"
+    ],
+    "PERODUA|AXIA": [
+      "Automatic"
+    ],
+    "PERODUA|BEZZA": [
+      "Automatic"
+    ],
+    "PERODUA|KELISA": [
+      "Automatic",
+      "Manual"
+    ],
+    "PERODUA|KENARI": [
+      "Automatic"
+    ],
+    "PERODUA|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "PERODUA|VIVA ELITE": [
+      "Automatic",
+      "Manual"
+    ],
+    "PERODUA|VIVA ELITE PREMIUM": [
+      "Automatic"
+    ],
+    "PEUGEOT|406": [
+      "Automatic",
+      "Manual"
+    ],
+    "PEUGEOT|407": [
+      "Automatic",
+      "Manual"
+    ],
+    "PEUGEOT|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "PROTON|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "PROTON|SAGA": [
+      "Automatic",
+      "Manual"
+    ],
+    "PROTON|WIRA": [
+      "Automatic",
+      "Manual"
+    ],
+    "RENAULT|KWID": [
+      "Automatic",
+      "Manual"
+    ],
+    "RENAULT|KWID RXT": [
+      "Manual"
+    ],
+    "RENAULT|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "SEAT|Other": [
+      "Automatic"
+    ],
+    "SKODA|Other": [
+      "Manual"
+    ],
+    "SUBARU|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|A-STAR": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|ALTO": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|ALTO 800": [
+      "Manual"
+    ],
+    "SUZUKI|ALTO 800 LXI": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|ALTO JAPAN": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|ALTO K10": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|ALTO K10 VXI": [
+      "Manual"
+    ],
+    "SUZUKI|ALTO LXI": [
+      "Manual"
+    ],
+    "SUZUKI|ALTO SPORT": [
+      "Manual"
+    ],
+    "SUZUKI|BALENO": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|CELERIO": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|CELERIO VXI": [
+      "Automatic"
+    ],
+    "SUZUKI|CELERIO ZXI": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|ESTEEM": [
+      "Manual"
+    ],
+    "SUZUKI|ESTILO": [
+      "Manual"
+    ],
+    "SUZUKI|HUSTLER": [
+      "Automatic"
+    ],
+    "SUZUKI|MARUTI": [
+      "Manual"
+    ],
+    "SUZUKI|MARUTI 800": [
+      "Manual"
+    ],
+    "SUZUKI|MARUTI EFI": [
+      "Manual"
+    ],
+    "SUZUKI|MARUTI ZEN": [
+      "Manual"
+    ],
+    "SUZUKI|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|SPACIA": [
+      "Automatic"
+    ],
+    "SUZUKI|SPACIA CUSTOM": [
+      "Automatic"
+    ],
+    "SUZUKI|SPACIA CUSTOM Z": [
+      "Automatic"
+    ],
+    "SUZUKI|SWIFT": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|SWIFT BEETLE": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|SWIFT CENTER ANTENNA": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|SWIFT JAPAN": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|SWIFT RS": [
+      "Automatic"
+    ],
+    "SUZUKI|SWIFT RS TURBO": [
+      "Automatic"
+    ],
+    "SUZUKI|WAGON R": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|WAGON R FX": [
+      "Automatic"
+    ],
+    "SUZUKI|WAGON R FX SAFETY": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|WAGON R FZ": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|WAGON R FZ PREMIUM": [
+      "Automatic"
+    ],
+    "SUZUKI|WAGON R FZ SAFETY": [
+      "Automatic"
+    ],
+    "SUZUKI|WAGON R PREMIUM": [
+      "Automatic"
+    ],
+    "SUZUKI|WAGON R STINGRAY": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|WAGON R STINGRAY J STYLE": [
+      "Automatic"
+    ],
+    "SUZUKI|WAGON R STINGRAY TURBO": [
+      "Automatic"
+    ],
+    "SUZUKI|ZEN": [
+      "Automatic",
+      "Manual"
+    ],
+    "SUZUKI|ZEN ESTILO": [
+      "Manual"
+    ],
+    "TATA|INDICA": [
+      "Manual"
+    ],
+    "TATA|INDIGO": [
+      "Manual"
+    ],
+    "TATA|NANO": [
+      "Automatic",
+      "Manual"
+    ],
+    "TATA|NANO LX": [
+      "Manual"
+    ],
+    "TATA|NANO TWIST": [
+      "Automatic",
+      "Manual"
+    ],
+    "TATA|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "TESLA|Other": [
+      "Automatic"
+    ],
+    "TOYOTA|110": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|AA60": [
+      "Manual"
+    ],
+    "TOYOTA|AK12": [
+      "Automatic"
+    ],
+    "TOYOTA|ALLION": [
+      "Automatic"
+    ],
+    "TOYOTA|ALLION 240": [
+      "Automatic"
+    ],
+    "TOYOTA|ALLION 260": [
+      "Automatic"
+    ],
+    "TOYOTA|ALLION 260 G": [
+      "Automatic"
+    ],
+    "TOYOTA|ALLION 260 G GRADE": [
+      "Automatic"
+    ],
+    "TOYOTA|ALLION 260 G PLUS": [
+      "Automatic"
+    ],
+    "TOYOTA|ALLION G GRADE": [
+      "Automatic"
+    ],
+    "TOYOTA|AQUA": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|AQUA G": [
+      "Automatic"
+    ],
+    "TOYOTA|AQUA G GRADE": [
+      "Automatic"
+    ],
+    "TOYOTA|AQUA G LIMITED": [
+      "Automatic"
+    ],
+    "TOYOTA|AQUA S GRADE": [
+      "Automatic"
+    ],
+    "TOYOTA|AQUA S LIMITED": [
+      "Automatic"
+    ],
+    "TOYOTA|AQUA URBAN": [
+      "Automatic"
+    ],
+    "TOYOTA|AQUA X URBAN": [
+      "Automatic"
+    ],
+    "TOYOTA|AVANZA": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|AXIO": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|AXIO 141": [
+      "Automatic"
+    ],
+    "TOYOTA|AXIO 161": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|AXIO G": [
+      "Automatic"
+    ],
+    "TOYOTA|AXIO G GRADE": [
+      "Automatic"
+    ],
+    "TOYOTA|AXIO WXB": [
+      "Automatic"
+    ],
+    "TOYOTA|AXIO X GRADE": [
+      "Automatic"
+    ],
+    "TOYOTA|AXIO X LIMITED": [
+      "Automatic"
+    ],
+    "TOYOTA|BELTA": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|CAMRY": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|CARINA": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|CARINA AA60": [
+      "Manual"
+    ],
+    "TOYOTA|CE100": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|CE110": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|CE90": [
+      "Manual"
+    ],
+    "TOYOTA|COROLLA": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|COROLLA 110": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|COROLLA 121": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|COROLLA 121 G": [
+      "Automatic"
+    ],
+    "TOYOTA|COROLLA 121 G GRADE": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|COROLLA 141": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|COROLLA 2": [
+      "Manual"
+    ],
+    "TOYOTA|COROLLA AE100": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|COROLLA AE110": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|COROLLA AE80": [
+      "Manual"
+    ],
+    "TOYOTA|COROLLA CE110": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|COROLLA CE90": [
+      "Manual"
+    ],
+    "TOYOTA|COROLLA DX WAGON": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|COROLLA KE72": [
+      "Manual"
+    ],
+    "TOYOTA|COROLLA WAGON": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|CORONA": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|CORONA PREMIO": [
+      "Automatic"
+    ],
+    "TOYOTA|CORSA": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|CROWN": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|DX WAGON": [
+      "Manual"
+    ],
+    "TOYOTA|DX WAGON KE72": [
+      "Manual"
+    ],
+    "TOYOTA|IST": [
+      "Automatic"
+    ],
+    "TOYOTA|IST FL GRADE": [
+      "Automatic"
+    ],
+    "TOYOTA|KE72": [
+      "Manual"
+    ],
+    "TOYOTA|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|PASSO": [
+      "Automatic"
+    ],
+    "TOYOTA|PREMIO": [
+      "Automatic"
+    ],
+    "TOYOTA|PREMIO 240": [
+      "Automatic"
+    ],
+    "TOYOTA|PREMIO 260": [
+      "Automatic"
+    ],
+    "TOYOTA|PREMIO G SUPERIOR": [
+      "Automatic"
+    ],
+    "TOYOTA|PRIUS": [
+      "Automatic"
+    ],
+    "TOYOTA|PRIUS S TOURING": [
+      "Automatic"
+    ],
+    "TOYOTA|SOLUNA": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|SPRINTER": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|STARLET": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|STARLET EP82": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|STARLET EP91": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|STARLET GLANZA": [
+      "Automatic"
+    ],
+    "TOYOTA|STARLET GT": [
+      "Manual"
+    ],
+    "TOYOTA|TANK": [
+      "Automatic"
+    ],
+    "TOYOTA|TERCEL": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|TOYOTA": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|VIOS": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|VIOS S GRADE": [
+      "Automatic"
+    ],
+    "TOYOTA|VITZ": [
+      "Automatic",
+      "Manual"
+    ],
+    "TOYOTA|VITZ EDITION 2": [
+      "Automatic"
+    ],
+    "TOYOTA|VITZ EDITION 3": [
+      "Automatic"
+    ],
+    "TOYOTA|VITZ KSP130": [
+      "Automatic"
+    ],
+    "TOYOTA|VITZ KSP90": [
+      "Automatic"
+    ],
+    "TOYOTA|VITZ SAFETY": [
+      "Automatic"
+    ],
+    "TOYOTA|VITZ SAFETY EDITION": [
+      "Automatic"
+    ],
+    "TOYOTA|VITZ SAFETY EDITION 2": [
+      "Automatic"
+    ],
+    "TOYOTA|VITZ SCP90": [
+      "Automatic"
+    ],
+    "TOYOTA|WAGON": [
+      "Manual"
+    ],
+    "TOYOTA|WIGO": [
+      "Automatic"
+    ],
+    "TOYOTA|YARIS": [
+      "Automatic",
+      "Manual"
+    ],
+    "VOLKSWAGEN|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "VOLVO|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "VOLVO|S40": [
+      "Automatic",
+      "Manual"
+    ],
+    "WILLYS|Other": [
+      "Manual"
+    ],
+    "ZOTYE|Other": [
+      "Automatic",
+      "Manual"
+    ],
+    "ZOTYE|Z100": [
+      "Manual"
     ]
   },
   "gears": [
@@ -461,7 +2919,6 @@
     "Horana",
     "Ja-Ela",
     "Kadawatha",
-    "Kaduwela",
     "Kalutara",
     "Kandy",
     "Kegalle",
@@ -477,6 +2934,7 @@
     "Other",
     "Panadura",
     "Piliyandala",
+    "Polonnaruwa",
     "Ratnapura"
   ],
   "leasings": [
